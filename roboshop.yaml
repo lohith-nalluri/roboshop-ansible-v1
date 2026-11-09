@@ -4,7 +4,7 @@
   vars:
     instances: ["mongodb", "redis", "mysql", "rabbitmq"]
     action: create
-    domain_name: daws92s.store
+    domain_name: crazycoolmaster.space
     ami_id: ami-0055977a6e828a4f4
   tasks: 
   - name: create ec2 instance 
