@@ -42,7 +42,7 @@
       zone: "{{ domain_name }}"
       record: "{{ item }}.{{ domain_name }}"
       type: A
-      tt1: 1
+      ttl: 1
     loop: "{{ instances }}"
     when: action == "delete"
 
