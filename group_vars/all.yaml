@@ -2,3 +2,9 @@ ansible_user: ec2-user
 ansible_password: DevOps321
 mongodb_host: mongodb.crazycoolmaster.space
 mysql_host: mysql.crazycoolmaster.space 
+catalogue_host: catalogue.crazycoolmaster.space
+cart_host: cart.crazycoolmaster.space
+redis_host: redis.crazycoolmaster.space
+user_host: user.crazycoolmaster.space
+rabbitmq_user: roboshop
+rabbitmq_password: roboshop123
