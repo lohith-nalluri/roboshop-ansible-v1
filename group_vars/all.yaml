@@ -8,3 +8,5 @@ redis_host: redis.crazycoolmaster.space
 user_host: user.crazycoolmaster.space
 rabbitmq_user: roboshop
 rabbitmq_password: roboshop123
+shipping_host: shipping.crazycoolmaster.space
+payment_host: payment.crazycoolmaster.space
